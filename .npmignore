@@ -5,3 +5,5 @@ jest.config.base.ts
 jest.config.ts
 tsconfig.json
 tsconfig.build.json
+coverage
+.prettierrc
