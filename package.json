@@ -1,6 +1,6 @@
 {
   "name": "vitejs-plugin-builder-ilc",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "For ViteJS, plugin builder for MFEs compatibility with ILC namecheap",
   "main": "index.js",
   "scripts": {
