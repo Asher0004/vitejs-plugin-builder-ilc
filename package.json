@@ -1,8 +1,8 @@
 {
   "name": "vitejs-plugin-builder-ilc",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "For ViteJS, plugin builder for MFEs compatibility with ILC namecheap",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest --coverage --runInBand",
     "lint": "eslint . --ext .ts",

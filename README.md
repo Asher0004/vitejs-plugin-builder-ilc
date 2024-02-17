@@ -42,7 +42,7 @@ An example of using the plugin:
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import legacy from '@vitejs/plugin-legacy';
-import { builderCompatibilityIlc } from 'plugin-builder-ilc';
+import { builderCompatibilityIlc } from 'vitejs-plugin-builder-ilc';
 
 export default defineConfig({
   plugins: [
